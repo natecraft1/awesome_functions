@@ -48,3 +48,5 @@ function combinations(array, n) {
   return retArr;
 }
 // console.log(combinations([1,2,4,5], 6));
+// O(N*2^N) 
+// for faster implementation look at the PowerSet Algorithm
